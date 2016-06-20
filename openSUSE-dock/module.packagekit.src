@@ -1,0 +1,6 @@
+group "packagekit_config" struct {
+    value "update_interval" int: 1440;
+    value "last_update" int: 1411356480;
+    value "manager_command" string: "xdg-su -c \"/sbin/yast2 online_update\"";
+    value "show_description" int: 0;
+}
