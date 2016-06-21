@@ -1,3 +1,3 @@
-== openSUSE17 profiles ==
+== openSUSE Enlightenment profiles ==
 
-Repository containing and tracking openSUSE profiles for Enlightenment 0.17.
+Repository containing and tracking openSUSE profiles for Enlightenment.
